@@ -1,0 +1,1 @@
+buka file .env > lalu ganti database pake database lu sql/mongo
