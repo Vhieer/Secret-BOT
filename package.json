@@ -1,5 +1,5 @@
 {
-   "name":"neoxr-bot",
+   "name":"vorz-bot",
    "version":"1.0.0",
    "description":"Base WhatsApp Bot Multi Device",
    "main":"index.js",
@@ -17,7 +17,7 @@
    "keywords":[
       "wabot-md"
    ],
-   "author":"Wildan Izzudin",
+   "author":"BayzAyu",
    "license":"ISC",
    "dependencies":{
       "@adiwajshing/baileys":"^4.4.0",
