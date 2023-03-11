@@ -5,7 +5,7 @@ const {
    decode
 } = require('html-entities')
 const y2mate = require('../lib/y2mate')
-global.creator = `instagram : @chyangrhaa`
+global.creator = `VORZ BOT`
 const drakorasia = new (require('../lib/drakor'))
 const anoboy = new (require('../lib/anoboy'))
 const movie = new (require('../lib/movie'))
